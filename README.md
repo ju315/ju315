@@ -16,6 +16,9 @@
   <img src='https://img.shields.io/badge/Next-000000?style=flat-square&logo=Nextdotjs&logoColor=white' />
   <img src='https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=Reactquery&logoColor=white' />
   <img src='https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white' />
+  <img src='https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=reduxsaga&logoColor=white' />
+  <img src='https://img.shields.io/badge/eCharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white' />
+  <img src='https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white' />
   <br />
   <img src='https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white' />
   <img src='https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white' />
