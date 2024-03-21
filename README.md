@@ -18,6 +18,7 @@
   <img src='https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white' />
   <br />
   <img src='https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white' />
+  <img src='https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white' />
   <img src='https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white' />
   <img src='https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=passport&logoColor=white' />
   <img src='https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white' />
